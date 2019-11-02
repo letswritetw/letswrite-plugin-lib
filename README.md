@@ -1,29 +1,5 @@
-# medium-plugin-lib
+# 用Vue CLI 3 + Vuetify 製作說明頁面
 
-## Project setup
-```
-npm install
-```
+Demo：<https://plugins.letswrite.tw/>
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+筆記文：[Let's Write](https://letswrite.tw/vue-cli3-vuetify-plugins-lib/)
